@@ -1,0 +1,151 @@
+Patient_ID,Age,Gender,Nationality,Emirate,Diagnosis_Date,Cancer_Type,Cancer_Stage,Treatment_Type,Treatment_Start_Date,Hospital,Primary_Physician,Outcome,Death_Date,Cause_of_Death,Smoking_Status,Comorbidities,Ethnicity,Weight,Height,Survival_Months
+PAT004904,36,Female,Emirati,Ras Al Khaimah,2022-08-12,Liver,III,Chemotherapy,2022-12-13,Zayed Military Hospital,Dr. NW16,Recovered,,,Non-Smoker,,European,59,180,4.040735873850197
+PAT001348,81,Female,Emirati,Umm Al Quwain,2016-05-16,Prostate,II,Surgery,2016-08-15,Sheikh Khalifa Hospital,Dr. IZ4,Recovered,,,Non-Smoker,,South Asian,57,154,2.9894875164257555
+PAT000305,42,Male,Emirati,Dubai,2016-08-10,Leukemia,I,Immunotherapy,2016-09-11,Zayed Military Hospital,Dr. BE30,Recovered,,,Smoker,Hypertension,Arab,79,151,1.0512483574244416
+PAT003899,20,Male,Expatriate,Abu Dhabi,2020-12-21,Prostate,II,Immunotherapy,2020-12-24,Dubai Hospital,Dr. CG33,Recovered,,,Non-Smoker,Hypertension,European,72,163,0.09855453350854139
+PAT004195,73,Male,Expatriate,Dubai,2021-08-01,Leukemia,I,Immunotherapy,2021-11-13,Zayed Military Hospital,Dr. AA23,Deceased,2024-01-11 00:00:00,Complications,Non-Smoker,Hypertension,European,71,171,3.416557161629435
+PAT005742,24,Male,Emirati,Fujairah,2016-04-22,Lung,III,Chemotherapy,2016-06-12,Sheikh Khalifa Hospital,Dr. VC50,Deceased,2017-02-02 00:00:00,Complications,Smoker,Hypertension,African,51,160,1.6754270696452036
+PAT002341,56,Male,Emirati,Fujairah,2017-11-17,Colorectal,II,Immunotherapy,2018-01-03,Zayed Military Hospital,Dr. ID33,Recovered,,,Former Smoker,,Arab,76,159,1.5440210249671484
+PAT006253,87,Male,Emirati,Ajman,2022-04-20,Pancreatic,II,Surgery,2022-05-30,Sheikh Khalifa Hospital,Dr. OI4,Recovered,,,Non-Smoker,Cardiovascular Disease,East Asian,69,160,1.314060446780552
+PAT003351,27,Male,Expatriate,Fujairah,2017-12-03,Liver,II,Surgery,2018-03-03,Sheikh Khalifa Hospital,Dr. VF8,Under Treatment,,,Former Smoker,,South Asian,65,169,2.9566360052562417
+PAT004322,69,Male,Expatriate,Ajman,2015-09-24,Prostate,I,Surgery,2016-01-10,Zayed Military Hospital,Dr. ZW5,Under Treatment,,,Non-Smoker,,East Asian,68,155,3.54796320630749
+PAT004685,53,Male,Emirati,Ajman,2019-04-20,Liver,II,Chemotherapy,2019-10-05,Zayed Military Hospital,Dr. KF37,Under Treatment,,,Non-Smoker,,Arab,90,164,5.519053876478318
+PAT000032,20,Male,Emirati,Ras Al Khaimah,2015-02-13,Leukemia,I,Chemotherapy,2015-07-08,Zayed Military Hospital,Dr. CV32,Under Treatment,,,Non-Smoker,Diabetes,African,89,177,4.763469119579501
+PAT005324,33,Female,Expatriate,Ajman,2018-06-17,Colorectal,I,Radiation,2018-10-26,Dubai Hospital,Dr. IS49,Recovered,,,Former Smoker,,European,50,171,4.303547963206308
+PAT003232,26,Male,Expatriate,Dubai,2019-05-19,Leukemia,I,Radiation,2019-11-02,Dubai Hospital,Dr. SO49,Deceased,2020-10-29 00:00:00,Complications,Non-Smoker,Hypertension,East Asian,80,175,5.486202365308804
+PAT001732,45,Male,Expatriate,Fujairah,2015-04-20,Breast,III,Immunotherapy,2015-07-16,Dubai Hospital,Dr. TS32,Deceased,2016-11-04 00:00:00,Cancer,Former Smoker,Hypertension,South Asian,66,165,2.8580814717477003
+PAT006262,50,Female,Emirati,Ras Al Khaimah,2023-05-07,Leukemia,III,Surgery,2023-09-18,Sheikh Khalifa Hospital,Dr. PE39,Recovered,,,Former Smoker,Diabetes,African,69,165,4.402102496714849
+PAT004950,62,Male,Expatriate,Umm Al Quwain,2021-01-16,Lung,III,Chemotherapy,2021-03-28,Sheikh Khalifa Hospital,Dr. XH16,Under Treatment,,,Former Smoker,Hypertension,Arab,60,167,2.3324572930354797
+PAT007822,38,Female,Expatriate,Abu Dhabi,2015-08-05,Lung,III,Radiation,2015-10-02,Dubai Hospital,Dr. WU3,Recovered,,,Non-Smoker,Diabetes,Arab,81,176,1.9053876478318001
+PAT000034,24,Female,Expatriate,Umm Al Quwain,2019-12-16,Lung,III,Chemotherapy,2019-12-17,Zayed Military Hospital,Dr. YE48,Under Treatment,,,Non-Smoker,,South Asian,71,178,0.0328515111695138
+PAT000736,87,Female,Expatriate,Dubai,2016-10-31,Leukemia,III,Surgery,2017-03-17,Sheikh Khalifa Hospital,Dr. IP7,Recovered,,,Former Smoker,Diabetes,East Asian,103,161,4.50065703022339
+PAT001248,22,Male,Expatriate,Ras Al Khaimah,2015-09-12,Pancreatic,II,Immunotherapy,2015-10-10,Sheikh Khalifa Hospital,Dr. RM6,Deceased,2016-01-06 00:00:00,Complications,Smoker,Cardiovascular Disease,European,72,186,0.9198423127463863
+PAT009446,47,Male,Emirati,Abu Dhabi,2020-04-17,Breast,I,Chemotherapy,2020-09-01,Dubai Hospital,Dr. IK10,Under Treatment,,,Non-Smoker,,Arab,51,172,4.50065703022339
+PAT005422,48,Male,Emirati,Abu Dhabi,2021-09-12,Lung,IV,Chemotherapy,2022-01-21,Cleveland Clinic Abu Dhabi,Dr. TM28,Under Treatment,,,Smoker,,European,95,165,4.303547963206308
+PAT005675,65,Female,Emirati,Ajman,2016-10-14,Lung,I,Surgery,2017-02-04,Cleveland Clinic Abu Dhabi,Dr. UI38,Recovered,,,Smoker,Diabetes,South Asian,90,160,3.712220762155059
+PAT000417,46,Female,Emirati,Ras Al Khaimah,2022-03-15,Lung,I,Immunotherapy,2022-03-31,Sheikh Khalifa Hospital,Dr. WL25,Deceased,2023-07-05 00:00:00,Cancer,Former Smoker,Hypertension,Arab,95,169,0.5256241787122208
+PAT006898,49,Female,Expatriate,Fujairah,2019-12-11,Prostate,III,Radiation,2020-01-11,Zayed Military Hospital,Dr. OP46,Under Treatment,,,Non-Smoker,Diabetes,African,91,180,1.0183968462549278
+PAT003071,70,Female,Emirati,Umm Al Quwain,2019-02-12,Ovarian,II,Chemotherapy,2019-02-15,Zayed Military Hospital,Dr. FI1,Under Treatment,,,Smoker,,South Asian,60,172,0.09855453350854139
+PAT004000,25,Female,Expatriate,Umm Al Quwain,2020-11-26,Pancreatic,I,Chemotherapy,2021-01-13,Cleveland Clinic Abu Dhabi,Dr. TZ6,Under Treatment,,,Smoker,Diabetes,European,70,170,1.5768725361366622
+PAT009486,76,Male,Expatriate,Ajman,2018-06-06,Liver,I,Radiation,2018-10-23,Dubai Hospital,Dr. CP40,Under Treatment,,,Former Smoker,Hypertension,South Asian,52,152,4.566360052562418
+PAT000622,74,Male,Emirati,Abu Dhabi,2015-08-17,Ovarian,I,Radiation,2016-01-15,Cleveland Clinic Abu Dhabi,Dr. XK31,Recovered,,,Smoker,Hypertension,East Asian,88,192,4.9605781865965834
+PAT009645,66,Male,Emirati,Abu Dhabi,2018-11-15,Lung,IV,Surgery,2019-03-05,Cleveland Clinic Abu Dhabi,Dr. PX32,Recovered,,,Non-Smoker,Diabetes,Arab,86,171,3.6136662286465175
+PAT000089,58,Female,Emirati,Ras Al Khaimah,2019-09-10,Liver,IV,Radiation,2020-01-12,Sheikh Khalifa Hospital,Dr. EV19,Recovered,,,Smoker,,East Asian,67,157,4.073587385019711
+PAT009754,65,Female,Emirati,Fujairah,2021-02-15,Ovarian,I,Surgery,2021-07-03,Dubai Hospital,Dr. FL14,Recovered,,,Former Smoker,Hypertension,Arab,83,184,4.533508541392904
+PAT009702,70,Male,Emirati,Ras Al Khaimah,2015-07-15,Leukemia,II,Radiation,2015-10-11,Cleveland Clinic Abu Dhabi,Dr. MS4,Recovered,,,Non-Smoker,Cardiovascular Disease,European,84,166,2.890932982917214
+PAT001113,57,Male,Emirati,Sharjah,2023-03-17,Colorectal,I,Radiation,2023-05-01,Sheikh Khalifa Hospital,Dr. ME48,Recovered,,,Smoker,,Arab,89,161,1.4783180026281209
+PAT004387,61,Other,Emirati,Umm Al Quwain,2019-12-29,Prostate,III,Surgery,2020-01-12,Sheikh Khalifa Hospital,Dr. TQ36,Recovered,,,Non-Smoker,,African,74,181,0.45992115637319314
+PAT008329,78,Male,Emirati,Sharjah,2015-07-23,Liver,III,Immunotherapy,2015-07-27,Zayed Military Hospital,Dr. NV17,Under Treatment,,,Smoker,,European,76,176,0.1314060446780552
+PAT008285,75,Female,Emirati,Dubai,2020-06-21,Liver,I,Surgery,2020-09-05,Zayed Military Hospital,Dr. JK15,Recovered,,,Smoker,Hypertension,European,89,191,2.4967148488830486
+PAT007943,69,Male,Emirati,Dubai,2019-12-12,Prostate,IV,Chemotherapy,2020-02-05,Zayed Military Hospital,Dr. EY40,Recovered,,,Non-Smoker,,South Asian,77,167,1.8068331143232588
+PAT004823,74,Male,Emirati,Umm Al Quwain,2019-01-27,Breast,II,Surgery,2019-02-10,Cleveland Clinic Abu Dhabi,Dr. ZM47,Recovered,,,Non-Smoker,,South Asian,102,168,0.45992115637319314
+PAT002345,76,Other,Emirati,Ras Al Khaimah,2017-03-01,Pancreatic,IV,Chemotherapy,2017-07-10,Cleveland Clinic Abu Dhabi,Dr. XK21,Under Treatment,,,Smoker,Diabetes,Arab,68,168,4.303547963206308
+PAT003835,18,Female,Emirati,Ras Al Khaimah,2023-11-23,Ovarian,II,Radiation,2023-12-06,Zayed Military Hospital,Dr. RP21,Recovered,,,Former Smoker,Diabetes,East Asian,87,173,0.42706964520367935
+PAT002305,54,Male,Expatriate,Dubai,2018-07-12,Prostate,III,Radiation,2018-09-23,Sheikh Khalifa Hospital,Dr. BR46,Recovered,,,Former Smoker,,East Asian,71,173,2.3981603153745072
+PAT002689,33,Female,Expatriate,Dubai,2018-01-24,Colorectal,IV,Chemotherapy,2018-03-12,Dubai Hospital,Dr. ER35,Recovered,,,Former Smoker,,East Asian,68,168,1.5440210249671484
+PAT001964,48,Male,Expatriate,Dubai,2016-12-31,Colorectal,IV,Surgery,2017-02-21,Cleveland Clinic Abu Dhabi,Dr. CL3,Recovered,,,Smoker,Diabetes,Arab,64,171,1.7082785808147174
+PAT007508,67,Female,Expatriate,Umm Al Quwain,2021-09-01,Leukemia,III,Immunotherapy,2021-10-31,Dubai Hospital,Dr. TX50,Recovered,,,Smoker,,African,61,168,1.9710906701708277
+PAT008538,88,Female,Expatriate,Sharjah,2018-04-21,Pancreatic,III,Radiation,2018-08-07,Sheikh Khalifa Hospital,Dr. WC47,Under Treatment,,,Non-Smoker,Hypertension,Arab,74,171,3.54796320630749
+PAT002928,77,Female,Emirati,Dubai,2018-06-07,Colorectal,IV,Radiation,2018-09-26,Zayed Military Hospital,Dr. MP14,Recovered,,,Non-Smoker,,East Asian,72,161,3.6465177398160313
+PAT002754,82,Female,Emirati,Fujairah,2020-04-14,Liver,IV,Radiation,2020-05-23,Zayed Military Hospital,Dr. OQ6,Under Treatment,,,Non-Smoker,,African,84,167,1.281208935611038
+PAT009656,80,Female,Expatriate,Ajman,2020-07-13,Pancreatic,I,Radiation,2020-12-04,Cleveland Clinic Abu Dhabi,Dr. EL16,Deceased,2022-06-28 00:00:00,Complications,Smoker,,East Asian,96,179,4.730617608409987
+PAT005199,37,Female,Emirati,Umm Al Quwain,2016-07-09,Pancreatic,III,Radiation,2016-09-07,Sheikh Khalifa Hospital,Dr. JJ33,Recovered,,,Former Smoker,Hypertension,South Asian,64,162,1.9710906701708277
+PAT009931,89,Male,Expatriate,Ajman,2023-03-04,Prostate,III,Immunotherapy,2023-07-29,Cleveland Clinic Abu Dhabi,Dr. DL30,Recovered,,,Smoker,,African,54,167,4.829172141918528
+PAT009203,51,Male,Emirati,Sharjah,2015-10-17,Breast,III,Immunotherapy,2015-12-18,Sheikh Khalifa Hospital,Dr. VP8,Under Treatment,,,Smoker,Hypertension,East Asian,60,164,2.0367936925098555
+PAT007771,45,Female,Expatriate,Umm Al Quwain,2019-11-10,Breast,III,Chemotherapy,2019-11-18,Dubai Hospital,Dr. LB46,Under Treatment,,,Former Smoker,Hypertension,East Asian,70,181,0.2628120893561104
+PAT002877,58,Female,Emirati,Ras Al Khaimah,2017-06-08,Prostate,IV,Immunotherapy,2017-09-06,Zayed Military Hospital,Dr. IG18,Recovered,,,Former Smoker,,European,57,170,2.9566360052562417
+PAT001513,39,Male,Emirati,Umm Al Quwain,2015-01-15,Liver,II,Surgery,2015-02-05,Sheikh Khalifa Hospital,Dr. BG28,Recovered,,,Smoker,,East Asian,83,154,0.6898817345597897
+PAT008363,76,Female,Expatriate,Umm Al Quwain,2016-08-30,Leukemia,I,Surgery,2017-02-18,Dubai Hospital,Dr. SM24,Under Treatment,,,Former Smoker,Diabetes,European,58,170,5.650459921156373
+PAT000108,44,Male,Expatriate,Dubai,2022-05-24,Pancreatic,III,Immunotherapy,2022-05-31,Zayed Military Hospital,Dr. TF50,Under Treatment,,,Smoker,,African,81,138,0.22996057818659657
+PAT005203,30,Male,Emirati,Umm Al Quwain,2019-10-20,Lung,III,Chemotherapy,2020-03-04,Dubai Hospital,Dr. OY5,Recovered,,,Smoker,Diabetes,European,62,181,4.467805519053877
+PAT000511,30,Female,Emirati,Dubai,2016-02-17,Prostate,II,Surgery,2016-02-20,Dubai Hospital,Dr. KA24,Recovered,,,Smoker,,South Asian,82,172,0.09855453350854139
+PAT000322,68,Male,Emirati,Umm Al Quwain,2016-04-16,Breast,III,Radiation,2016-09-01,Zayed Military Hospital,Dr. ZW29,Recovered,,,Former Smoker,Diabetes,African,72,175,4.533508541392904
+PAT008404,20,Other,Expatriate,Abu Dhabi,2021-09-26,Leukemia,IV,Radiation,2022-02-07,Dubai Hospital,Dr. VT44,Recovered,,,Smoker,Hypertension,Arab,73,161,4.402102496714849
+PAT007773,58,Female,Expatriate,Abu Dhabi,2019-02-26,Ovarian,III,Immunotherapy,2019-05-24,Sheikh Khalifa Hospital,Dr. TB14,Recovered,,,Non-Smoker,Cardiovascular Disease,South Asian,26,170,2.8580814717477003
+PAT008182,44,Male,Emirati,Sharjah,2015-08-25,Ovarian,II,Radiation,2015-10-06,Sheikh Khalifa Hospital,Dr. PN45,Under Treatment,,,Smoker,Diabetes,African,76,176,1.3797634691195795
+PAT008710,68,Male,Expatriate,Fujairah,2015-03-07,Prostate,III,Immunotherapy,2015-08-31,Sheikh Khalifa Hospital,Dr. GH4,Recovered,,,Smoker,Diabetes,East Asian,81,153,5.814717477003942
+PAT002679,31,Male,Expatriate,Umm Al Quwain,2015-12-21,Breast,II,Surgery,2016-01-16,Zayed Military Hospital,Dr. JQ44,Recovered,,,Non-Smoker,,African,81,162,0.8541392904073587
+PAT000953,50,Female,Emirati,Fujairah,2015-04-24,Leukemia,III,Immunotherapy,2015-04-28,Dubai Hospital,Dr. MW35,Recovered,,,Non-Smoker,,African,68,175,0.1314060446780552
+PAT008159,30,Male,Expatriate,Abu Dhabi,2020-09-07,Leukemia,IV,Immunotherapy,2020-09-08,Sheikh Khalifa Hospital,Dr. WR10,Under Treatment,,,Non-Smoker,Hypertension,East Asian,81,154,0.0328515111695138
+PAT006232,27,Female,Expatriate,Ajman,2022-07-26,Pancreatic,III,Radiation,2022-11-13,Dubai Hospital,Dr. DL12,Under Treatment,,,Smoker,Diabetes,Arab,66,165,3.6136662286465175
+PAT003040,19,Female,Expatriate,Sharjah,2019-08-26,Liver,I,Immunotherapy,2019-09-26,Cleveland Clinic Abu Dhabi,Dr. PP11,Under Treatment,,,Non-Smoker,,Arab,81,192,1.0183968462549278
+PAT005911,58,Female,Expatriate,Sharjah,2015-11-04,Ovarian,II,Chemotherapy,2015-12-06,Zayed Military Hospital,Dr. AM9,Recovered,,,Non-Smoker,,Arab,88,169,1.0512483574244416
+PAT006341,66,Female,Emirati,Fujairah,2015-11-07,Colorectal,I,Radiation,2016-03-29,Sheikh Khalifa Hospital,Dr. MV12,Under Treatment,,,Former Smoker,,Arab,72,180,4.697766097240473
+PAT005360,49,Female,Expatriate,Dubai,2021-10-31,Liver,III,Chemotherapy,2022-03-22,Zayed Military Hospital,Dr. UO1,Under Treatment,,,Smoker,,European,75,171,4.664914586070959
+PAT004614,43,Male,Emirati,Abu Dhabi,2017-10-13,Colorectal,II,Radiation,2017-11-04,Zayed Military Hospital,Dr. SU2,Under Treatment,,,Non-Smoker,Cardiovascular Disease,East Asian,48,176,0.7227332457293035
+PAT009897,71,Male,Expatriate,Abu Dhabi,2017-06-30,Colorectal,III,Chemotherapy,2017-07-31,Cleveland Clinic Abu Dhabi,Dr. TQ27,Under Treatment,,,Former Smoker,,East Asian,68,181,1.0183968462549278
+PAT005854,21,Female,Emirati,Abu Dhabi,2018-03-18,Colorectal,II,Surgery,2018-06-18,Dubai Hospital,Dr. TU18,Under Treatment,,,Non-Smoker,Hypertension,East Asian,64,193,3.0223390275952693
+PAT001510,61,Female,Emirati,Abu Dhabi,2017-03-25,Pancreatic,IV,Immunotherapy,2017-09-06,Zayed Military Hospital,Dr. WK14,Under Treatment,,,Non-Smoker,Hypertension,African,77,177,5.4204993429697765
+PAT000040,31,Female,Emirati,Sharjah,2023-05-13,Lung,III,Radiation,2023-07-30,Dubai Hospital,Dr. CK40,Under Treatment,,,Non-Smoker,Diabetes,African,78,155,2.562417871222076
+PAT001124,68,Male,Emirati,Ajman,2016-11-11,Lung,II,Immunotherapy,2017-02-04,Zayed Military Hospital,Dr. LG14,Recovered,,,Smoker,Diabetes,Arab,60,176,2.7923784494086727
+PAT005795,27,Male,Emirati,Ras Al Khaimah,2016-06-24,Liver,III,Immunotherapy,2016-08-12,Zayed Military Hospital,Dr. XZ33,Recovered,,,Non-Smoker,Diabetes,African,79,167,1.609724047306176
+PAT003724,20,Female,Emirati,Umm Al Quwain,2024-02-13,Breast,I,Surgery,2024-06-05,Zayed Military Hospital,Dr. FE3,Deceased,2024-08-29 00:00:00,Cancer,Non-Smoker,,East Asian,70,170,3.712220762155059
+PAT000795,80,Male,Expatriate,Fujairah,2015-07-15,Breast,II,Radiation,2015-08-21,Dubai Hospital,Dr. VG23,Recovered,,,Non-Smoker,Diabetes,African,89,183,1.2155059132720105
+PAT004626,19,Male,Emirati,Ajman,2018-06-24,Prostate,I,Immunotherapy,2018-10-27,Dubai Hospital,Dr. RA5,Recovered,,,Non-Smoker,,South Asian,83,191,4.106438896189225
+PAT004203,28,Male,Expatriate,Umm Al Quwain,2015-02-11,Leukemia,II,Radiation,2015-06-16,Cleveland Clinic Abu Dhabi,Dr. JU8,Under Treatment,,,Non-Smoker,Hypertension,Arab,44,173,4.106438896189225
+PAT001148,49,Female,Emirati,Ajman,2021-11-13,Liver,I,Radiation,2022-04-05,Zayed Military Hospital,Dr. YZ20,Recovered,,,Smoker,Hypertension,East Asian,53,153,4.697766097240473
+PAT009318,57,Male,Expatriate,Abu Dhabi,2017-05-07,Pancreatic,III,Surgery,2017-05-30,Cleveland Clinic Abu Dhabi,Dr. HH49,Recovered,,,Non-Smoker,Cardiovascular Disease,Arab,91,160,0.7555847568988173
+PAT002234,64,Male,Expatriate,Ajman,2015-07-29,Prostate,I,Immunotherapy,2016-01-16,Sheikh Khalifa Hospital,Dr. MJ41,Recovered,,,Non-Smoker,Hypertension,Arab,78,169,5.617608409986859
+PAT004943,31,Male,Emirati,Ajman,2023-02-21,Lung,IV,Immunotherapy,2023-06-02,Cleveland Clinic Abu Dhabi,Dr. SQ23,Recovered,,,Smoker,,European,92,179,3.3180026281208934
+PAT007602,50,Female,Expatriate,Ras Al Khaimah,2022-03-21,Lung,II,Chemotherapy,2022-08-07,Cleveland Clinic Abu Dhabi,Dr. ZR25,Recovered,,,Smoker,,Arab,56,176,4.566360052562418
+PAT006443,45,Male,Expatriate,Ras Al Khaimah,2017-07-27,Liver,III,Surgery,2017-10-11,Dubai Hospital,Dr. SJ30,Recovered,,,Smoker,Diabetes,Arab,86,178,2.4967148488830486
+PAT002546,47,Female,Emirati,Abu Dhabi,2015-08-15,Breast,I,Chemotherapy,2015-12-15,Sheikh Khalifa Hospital,Dr. KI46,Under Treatment,,,Smoker,Diabetes,Arab,50,162,4.0078843626806835
+PAT008128,78,Male,Expatriate,Abu Dhabi,2023-08-16,Prostate,I,Immunotherapy,2023-12-09,Dubai Hospital,Dr. ES10,Recovered,,,Non-Smoker,,European,66,187,3.7779237844940865
+PAT004514,45,Female,Emirati,Dubai,2018-08-23,Lung,I,Chemotherapy,2018-11-16,Cleveland Clinic Abu Dhabi,Dr. US35,Recovered,,,Non-Smoker,,South Asian,60,187,2.7923784494086727
+PAT005270,24,Male,Emirati,Ajman,2020-09-11,Colorectal,IV,Radiation,2021-02-16,Zayed Military Hospital,Dr. ZI3,Recovered,,,Smoker,,East Asian,68,186,5.19053876478318
+PAT008081,81,Female,Expatriate,Sharjah,2020-12-31,Lung,III,Surgery,2021-01-11,Sheikh Khalifa Hospital,Dr. LF7,Under Treatment,,,Smoker,Hypertension,Arab,53,183,0.36136662286465177
+PAT000766,61,Female,Expatriate,Ajman,2019-01-09,Liver,II,Radiation,2019-06-07,Zayed Military Hospital,Dr. IW30,Under Treatment,,,Non-Smoker,Diabetes,Arab,72,171,4.894875164257556
+PAT004443,28,Male,Expatriate,Fujairah,2015-12-07,Prostate,I,Immunotherapy,2016-02-11,Zayed Military Hospital,Dr. ZI38,Recovered,,,Smoker,Hypertension,African,73,171,2.1681997371879107
+PAT004522,54,Female,Expatriate,Dubai,2018-10-19,Leukemia,II,Chemotherapy,2019-01-16,Zayed Military Hospital,Dr. FB16,Recovered,,,Former Smoker,,Arab,73,163,2.923784494086728
+PAT007217,55,Male,Expatriate,Ajman,2015-08-07,Prostate,IV,Surgery,2015-09-21,Sheikh Khalifa Hospital,Dr. ZW7,Under Treatment,,,Smoker,,East Asian,83,165,1.4783180026281209
+PAT000361,75,Female,Emirati,Umm Al Quwain,2016-04-20,Liver,I,Surgery,2016-07-21,Dubai Hospital,Dr. FJ16,Deceased,2017-11-03 00:00:00,Complications,Non-Smoker,Hypertension,Arab,81,159,3.0223390275952693
+PAT009055,46,Male,Emirati,Fujairah,2023-09-26,Breast,III,Radiation,2023-12-15,Dubai Hospital,Dr. NU23,Recovered,,,Non-Smoker,,European,87,168,2.628120893561104
+PAT007378,43,Female,Emirati,Fujairah,2019-06-02,Colorectal,III,Surgery,2019-09-14,Sheikh Khalifa Hospital,Dr. NQ1,Under Treatment,,,Smoker,,East Asian,67,166,3.416557161629435
+PAT003858,77,Male,Emirati,Fujairah,2021-11-17,Leukemia,II,Radiation,2022-01-17,Cleveland Clinic Abu Dhabi,Dr. AN17,Under Treatment,,,Non-Smoker,Hypertension,African,82,169,2.0039421813403417
+PAT007851,75,Male,Emirati,Abu Dhabi,2023-04-13,Pancreatic,IV,Surgery,2023-09-12,Zayed Military Hospital,Dr. NF44,Under Treatment,,,Non-Smoker,Cardiovascular Disease,East Asian,66,170,4.993429697766097
+PAT003394,78,Male,Emirati,Abu Dhabi,2017-08-06,Breast,III,Chemotherapy,2017-12-17,Zayed Military Hospital,Dr. XK35,Deceased,2020-02-26 00:00:00,Complications,Former Smoker,Diabetes,European,59,154,4.369250985545335
+PAT009421,60,Male,Emirati,Ras Al Khaimah,2021-10-29,Breast,II,Chemotherapy,2022-03-28,Zayed Military Hospital,Dr. IP21,Recovered,,,Non-Smoker,,East Asian,72,151,4.92772667542707
+PAT001761,30,Male,Emirati,Umm Al Quwain,2015-06-01,Prostate,III,Surgery,2015-08-04,Sheikh Khalifa Hospital,Dr. EQ50,Under Treatment,,,Smoker,Diabetes,South Asian,48,178,2.102496714848883
+PAT009150,59,Male,Expatriate,Sharjah,2019-02-26,Colorectal,I,Immunotherapy,2019-05-28,Dubai Hospital,Dr. BQ46,Under Treatment,,,Smoker,Diabetes,South Asian,67,164,2.9894875164257555
+PAT001225,78,Female,Emirati,Sharjah,2016-06-12,Lung,IV,Chemotherapy,2016-10-29,Dubai Hospital,Dr. RD27,Deceased,2017-01-18 00:00:00,Complications,Former Smoker,,European,69,157,4.566360052562418
+PAT003913,65,Female,Expatriate,Umm Al Quwain,2021-07-10,Lung,II,Chemotherapy,2021-10-21,Sheikh Khalifa Hospital,Dr. VP45,Under Treatment,,,Non-Smoker,,African,64,167,3.383705650459921
+PAT000093,29,Male,Emirati,Umm Al Quwain,2021-06-08,Colorectal,II,Immunotherapy,2021-07-01,Sheikh Khalifa Hospital,Dr. HJ29,Under Treatment,,,Smoker,Hypertension,East Asian,49,166,0.7555847568988173
+PAT001069,54,Female,Emirati,Fujairah,2022-06-28,Lung,I,Immunotherapy,2022-08-06,Dubai Hospital,Dr. ZI15,Under Treatment,,,Non-Smoker,,South Asian,85,174,1.281208935611038
+PAT001374,21,Male,Expatriate,Ajman,2020-05-10,Ovarian,IV,Immunotherapy,2020-05-30,Zayed Military Hospital,Dr. RG21,Deceased,2022-04-03 00:00:00,Cancer,Non-Smoker,,European,43,175,0.657030223390276
+PAT002361,75,Male,Emirati,Ras Al Khaimah,2018-01-28,Breast,II,Chemotherapy,2018-07-13,Cleveland Clinic Abu Dhabi,Dr. CC46,Deceased,2019-12-28 00:00:00,Cancer,Non-Smoker,Diabetes,South Asian,77,178,5.45335085413929
+PAT005666,29,Male,Expatriate,Abu Dhabi,2016-09-28,Colorectal,II,Chemotherapy,2017-03-07,Zayed Military Hospital,Dr. FP1,Under Treatment,,,Non-Smoker,,European,67,176,5.256241787122208
+PAT001189,30,Female,Expatriate,Sharjah,2022-01-02,Breast,II,Surgery,2022-06-28,Sheikh Khalifa Hospital,Dr. ER24,Under Treatment,,,Non-Smoker,,South Asian,67,170,5.814717477003942
+PAT003788,79,Male,Emirati,Dubai,2020-09-06,Liver,I,Immunotherapy,2021-01-26,Sheikh Khalifa Hospital,Dr. TW10,Under Treatment,,,Non-Smoker,,Arab,80,172,4.664914586070959
+PAT004696,87,Female,Emirati,Ajman,2018-04-12,Liver,III,Immunotherapy,2018-08-18,Zayed Military Hospital,Dr. AM9,Recovered,,,Non-Smoker,Hypertension,European,59,172,4.204993429697766
+PAT007641,87,Female,Expatriate,Umm Al Quwain,2017-09-17,Breast,I,Chemotherapy,2017-10-27,Cleveland Clinic Abu Dhabi,Dr. DG29,Under Treatment,,,Non-Smoker,,Arab,82,172,1.314060446780552
+PAT008188,21,Female,Expatriate,Umm Al Quwain,2019-03-13,Breast,II,Surgery,2019-05-01,Cleveland Clinic Abu Dhabi,Dr. PT2,Deceased,2020-06-04 00:00:00,Complications,Non-Smoker,Hypertension,Arab,104,179,1.609724047306176
+PAT005862,33,Male,Expatriate,Dubai,2023-07-15,Lung,I,Radiation,2023-07-29,Zayed Military Hospital,Dr. KG25,Under Treatment,,,Non-Smoker,,East Asian,42,181,0.45992115637319314
+PAT007953,60,Female,Emirati,Fujairah,2020-04-08,Colorectal,II,Surgery,2020-05-10,Dubai Hospital,Dr. XF34,Recovered,,,Non-Smoker,Diabetes,African,78,173,1.0512483574244416
+PAT007969,28,Female,Expatriate,Ras Al Khaimah,2015-08-27,Liver,II,Surgery,2016-01-28,Sheikh Khalifa Hospital,Dr. YU24,Under Treatment,,,Smoker,,South Asian,82,165,5.059132720105125
+PAT005184,54,Female,Expatriate,Sharjah,2022-10-14,Leukemia,IV,Surgery,2022-11-23,Zayed Military Hospital,Dr. SH31,Recovered,,,Non-Smoker,,African,73,169,1.314060446780552
+PAT003466,79,Male,Emirati,Fujairah,2019-08-15,Leukemia,I,Chemotherapy,2020-01-01,Sheikh Khalifa Hospital,Dr. JH44,Under Treatment,,,Smoker,Hypertension,South Asian,72,157,4.566360052562418
+PAT004820,62,Male,Expatriate,Ras Al Khaimah,2024-01-04,Breast,I,Immunotherapy,2024-01-21,Cleveland Clinic Abu Dhabi,Dr. MU8,Recovered,,,Smoker,Hypertension,European,80,174,0.5584756898817346
+PAT008820,58,Female,Expatriate,Umm Al Quwain,2015-05-13,Ovarian,III,Surgery,2015-08-31,Zayed Military Hospital,Dr. RE11,Recovered,,,Non-Smoker,Cardiovascular Disease,South Asian,64,175,3.6136662286465175
+PAT001514,54,Female,Emirati,Umm Al Quwain,2019-02-28,Lung,IV,Surgery,2019-08-16,Cleveland Clinic Abu Dhabi,Dr. RB24,Recovered,,,Non-Smoker,Diabetes,South Asian,76,170,5.551905387647832
+PAT008075,26,Male,Expatriate,Abu Dhabi,2023-05-23,Ovarian,II,Chemotherapy,2023-10-18,Cleveland Clinic Abu Dhabi,Dr. WQ33,Under Treatment,,,Non-Smoker,Cardiovascular Disease,Arab,60,167,4.862023653088042
+PAT002148,33,Male,Expatriate,Sharjah,2015-02-18,Leukemia,II,Immunotherapy,2015-06-06,Sheikh Khalifa Hospital,Dr. WS2,Deceased,2015-10-03 00:00:00,Cancer,Smoker,,East Asian,78,173,3.54796320630749
+PAT005310,79,Male,Emirati,Fujairah,2018-06-06,Ovarian,II,Radiation,2018-07-23,Sheikh Khalifa Hospital,Dr. ZO34,Under Treatment,,,Smoker,,East Asian,56,160,1.5440210249671484
+PAT004752,77,Other,Emirati,Ras Al Khaimah,2016-12-17,Lung,IV,Immunotherapy,2017-01-05,Zayed Military Hospital,Dr. JR39,Under Treatment,,,Former Smoker,,European,45,179,0.6241787122207622
+PAT008576,72,Female,Expatriate,Abu Dhabi,2018-09-22,Colorectal,IV,Radiation,2018-10-25,Cleveland Clinic Abu Dhabi,Dr. YU23,Under Treatment,,,Non-Smoker,Hypertension,East Asian,68,166,1.0840998685939554
+PAT004004,66,Female,Expatriate,Fujairah,2017-12-03,Ovarian,II,Radiation,2017-12-22,Dubai Hospital,Dr. CP41,Under Treatment,,,Former Smoker,Hypertension,African,69,171,0.6241787122207622
+PAT003016,40,Female,Expatriate,Sharjah,2021-06-30,Colorectal,I,Radiation,2021-11-03,Zayed Military Hospital,Dr. DV19,Under Treatment,,,Non-Smoker,,Arab,66,171,4.139290407358739
+PAT005267,85,Male,Emirati,Umm Al Quwain,2015-11-05,Pancreatic,IV,Immunotherapy,2015-12-02,Cleveland Clinic Abu Dhabi,Dr. MF4,Recovered,,,Non-Smoker,Diabetes,African,74,176,0.8869908015768725
+PAT006844,58,Male,Expatriate,Ajman,2023-05-10,Lung,II,Surgery,2023-09-08,Zayed Military Hospital,Dr. EJ43,Under Treatment,,,Smoker,,European,71,169,3.9750328515111693
+PAT002628,58,Female,Emirati,Ajman,2016-10-17,Pancreatic,II,Chemotherapy,2017-03-31,Dubai Hospital,Dr. WF50,Under Treatment,,,Non-Smoker,,South Asian,72,165,5.4204993429697765
+PAT001057,21,Male,Emirati,Sharjah,2022-02-04,Pancreatic,IV,Chemotherapy,2022-03-16,Dubai Hospital,Dr. CX15,Recovered,,,Smoker,Diabetes,Arab,61,168,1.314060446780552
+PAT006744,66,Male,Emirati,Dubai,2020-09-15,Pancreatic,III,Chemotherapy,2020-12-20,Sheikh Khalifa Hospital,Dr. PT26,Recovered,,,Smoker,,East Asian,57,185,3.1537450722733245
+PAT007619,82,Male,Emirati,Dubai,2021-03-13,Breast,I,Immunotherapy,2021-07-06,Dubai Hospital,Dr. KV21,Recovered,,,Smoker,Hypertension,Arab,82,167,3.7779237844940865
+PAT006791,19,Male,Emirati,Ajman,2018-06-28,Prostate,II,Immunotherapy,2018-09-11,Sheikh Khalifa Hospital,Dr. WE33,Recovered,,,Non-Smoker,Hypertension,African,45,176,2.463863337713535
+PAT006040,42,Male,Emirati,Umm Al Quwain,2022-12-23,Breast,I,Surgery,2023-02-05,Dubai Hospital,Dr. HT44,Under Treatment,,,Non-Smoker,Hypertension,East Asian,80,165,1.445466491458607
+PAT005197,48,Female,Emirati,Umm Al Quwain,2020-10-20,Colorectal,II,Chemotherapy,2021-03-30,Dubai Hospital,Dr. IV8,Under Treatment,,,Smoker,Cardiovascular Disease,South Asian,83,172,5.289093298291721
+PAT006600,60,Female,Emirati,Abu Dhabi,2022-06-15,Leukemia,I,Surgery,2022-10-25,Zayed Military Hospital,Dr. RA10,Under Treatment,,,Non-Smoker,Diabetes,Arab,78,177,4.336399474375821
+PAT006688,39,Female,Emirati,Ras Al Khaimah,2019-07-29,Colorectal,IV,Radiation,2019-12-23,Dubai Hospital,Dr. NX6,Recovered,,,Non-Smoker,Cardiovascular Disease,African,53,183,4.829172141918528
+PAT000440,79,Male,Emirati,Abu Dhabi,2018-05-28,Colorectal,II,Radiation,2018-06-11,Cleveland Clinic Abu Dhabi,Dr. DE38,Under Treatment,,,Former Smoker,Diabetes,East Asian,71,177,0.45992115637319314
+PAT009124,65,Male,Emirati,Sharjah,2017-11-05,Colorectal,I,Surgery,2018-01-13,Cleveland Clinic Abu Dhabi,Dr. RF26,Under Treatment,,,Smoker,,East Asian,66,152,2.266754270696452
+PAT007147,86,Female,Expatriate,Dubai,2020-10-29,Ovarian,II,Radiation,2021-02-09,Cleveland Clinic Abu Dhabi,Dr. IQ9,Under Treatment,,,Smoker,Hypertension,South Asian,51,156,3.383705650459921
+PAT002803,18,Female,Emirati,Umm Al Quwain,2020-08-12,Lung,IV,Radiation,2020-12-08,Dubai Hospital,Dr. BF30,Under Treatment,,,Non-Smoker,,South Asian,71,144,3.876478318002628
